@@ -1,0 +1,10 @@
+../Drivers/CMSIS/Include/core_cm7.h:2156:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+../Core/Src/usbd_midi_if.c:76:15:MIDI_Init	16	static
+../Core/Src/usbd_midi_if.c:90:15:MIDI_DeInit	16	static
+../Core/Src/usbd_midi_if.c:105:15:MIDI_Send	24	static
+../Core/Src/usbd_midi_if.c:123:15:MIDI_Receive	24	static
+../Core/Src/usbd_midi_if.c:151:6:MIDI_note_on	24	static
+../Core/Src/usbd_midi_if.c:162:6:MIDI_note_off	24	static
+../Core/Src/usbd_midi_if.c:173:6:MIDI_cc_update	24	static
+../Core/Src/usbd_midi_if.c:184:6:MIDI_Receive_Set_CallBack	16	static
+../Core/Src/usbd_midi_if.c:188:6:MIDI_Set_u8g2	16	static
